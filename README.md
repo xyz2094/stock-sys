@@ -23,12 +23,15 @@ This repository contains a project developed for a university **Databases** cour
 3. Run the scripts to create and populate the database.
 
 4. Use the provided queries to generate reports and interact with the system.
+
+## 🖼️ ER Diagram
+
+<p align="center"> <img src="https://github.com/vittordallacqua/Databases/blob/master/img/ERD.png" width=650> </p> 
    
 ## 🧾 Documentation
 
 - 👨🏻‍💻 <a href="https://github.com/vittordallacqua/Databases/blob/master/script/FinalProject.sql"> SQL Script</a>
 - 📄 <a href="https://github.com/vittordallacqua/Databases/blob/master/pdf/Trabalho%20Final%20-%20Vittor%20Dallacqua.pdf"> Final Project Report (PDF)</a>
-- 🖼️ <a href="https://github.com/vittordallacqua/Databases/blob/master/img/ERD.png"> ER Diagram </a>
 
 ## 📜 License
 
