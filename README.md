@@ -1,4 +1,4 @@
-Databases project (SQL) 
+### Databases project (SQL) 
 
 This repository contains a project developed for a university 
 Databases class. The goal was to build a functional relational 
@@ -9,7 +9,9 @@ How to run:
 
     > Open the SQL files in the `script` folder using your 
     preferred DBMS (e.g., MySQL Workbench).
+    
     > Run the scripts to create and populate the database.
+    
     > Use the provided queries to generate reports and interact 
     with the system.
 
