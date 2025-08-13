@@ -14,5 +14,3 @@ How to run:
     
     > Use the provided queries to generate reports and interact 
     with the system.
-
-This project is licensed under the MIT License.
